@@ -1,0 +1,11 @@
+C:\Users\33747821839\Documents\Ariel\2s2019-monitoria-codigos\Senai.POO.Vingadores\bin\Debug\netcoreapp2.2\Senai.POO.Vingadores.deps.json
+C:\Users\33747821839\Documents\Ariel\2s2019-monitoria-codigos\Senai.POO.Vingadores\bin\Debug\netcoreapp2.2\Senai.POO.Vingadores.runtimeconfig.json
+C:\Users\33747821839\Documents\Ariel\2s2019-monitoria-codigos\Senai.POO.Vingadores\bin\Debug\netcoreapp2.2\Senai.POO.Vingadores.runtimeconfig.dev.json
+C:\Users\33747821839\Documents\Ariel\2s2019-monitoria-codigos\Senai.POO.Vingadores\bin\Debug\netcoreapp2.2\Senai.POO.Vingadores.dll
+C:\Users\33747821839\Documents\Ariel\2s2019-monitoria-codigos\Senai.POO.Vingadores\bin\Debug\netcoreapp2.2\Senai.POO.Vingadores.pdb
+C:\Users\33747821839\Documents\Ariel\2s2019-monitoria-codigos\Senai.POO.Vingadores\obj\Debug\netcoreapp2.2\Senai.POO.Vingadores.csprojAssemblyReference.cache
+C:\Users\33747821839\Documents\Ariel\2s2019-monitoria-codigos\Senai.POO.Vingadores\obj\Debug\netcoreapp2.2\Senai.POO.Vingadores.csproj.CoreCompileInputs.cache
+C:\Users\33747821839\Documents\Ariel\2s2019-monitoria-codigos\Senai.POO.Vingadores\obj\Debug\netcoreapp2.2\Senai.POO.Vingadores.AssemblyInfoInputs.cache
+C:\Users\33747821839\Documents\Ariel\2s2019-monitoria-codigos\Senai.POO.Vingadores\obj\Debug\netcoreapp2.2\Senai.POO.Vingadores.AssemblyInfo.cs
+C:\Users\33747821839\Documents\Ariel\2s2019-monitoria-codigos\Senai.POO.Vingadores\obj\Debug\netcoreapp2.2\Senai.POO.Vingadores.dll
+C:\Users\33747821839\Documents\Ariel\2s2019-monitoria-codigos\Senai.POO.Vingadores\obj\Debug\netcoreapp2.2\Senai.POO.Vingadores.pdb
